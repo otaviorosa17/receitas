@@ -1,2 +1,2 @@
 # receitas
-Projeto para praticar HTML.
+Proposto por [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
